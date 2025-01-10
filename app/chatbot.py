@@ -21,29 +21,29 @@ def load_data():
         return json.load(file)
 
 # 챗봇 질의 함수
-def ask_chatbot(user_input: str, model_name:str = "gpt-4o-mini", temperature: float = 0.7):
+def ask_chatbot(user_input: str, results: list = [], model_name: str = "gpt-4", temperature: float = 0.7):
     """
-    사용자 입력을 기반으로 JSON 데이터를 참조하여 답변 생성
+    사용자 입력과 검색 결과를 기반으로 답변 생성
     :param user_input: 사용자가 입력한 질문
+    :param results: FAISS 검색 결과 리스트
     :param model_name: 사용할 OpenAI 모델 이름
     :param temperature: 텍스트 생성 온도
     :return: 모델의 답변
     """
-    # 데이터 로드
-    data = load_data()
-
     # Context 생성
-    context = "Answer the question based on the following JSON data:\n\n"
-    for item in data:
-         context += f"Q: {item['question']}\nA: {item['answer']}\n\n"
-
-    # 프롬프트 생성
-    prompt = f"{context}Q: {user_input}\nA:"
-
+    context = "너는 수강신청 알리미 챗봇이야. 학생들과 대화와 함께 제공되는 정보를 통해 알맞는 대답을 해줘:\n\n"
+    
+    for result in results:
+        metadata = result.get("metadata", {})
+        title = metadata.get("title", "Unknown Title")
+        summary = metadata.get("summary", "No summary available")
+        context += f"- Title: {title}\n  Summary: {summary}\n\n"
+    
+    # 사용자 질문 추가
+    context += f"User Question: {user_input}\nAnswer:"
+    
     # LLM 초기화 및 응답 생성
-    #llm = get_llm(model_name=model_name, temperature=temperature)
-    llm = ChatOpenAI(model="gpt-4o-mini",  temperature=temperature)
-
-    response = llm(prompt)
+    llm = ChatOpenAI(model=model_name, temperature=temperature)
+    response = llm.invoke(context)  # invoke를 사용하여 모델 호출
 
     return response

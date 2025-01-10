@@ -1,1 +1,6 @@
 .env
+faiss_index.bin
+faiss_index.meta.json
+metadata.json
+faiss_index.bin
+faiss_index.bin
