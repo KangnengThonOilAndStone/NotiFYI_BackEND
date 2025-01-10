@@ -21,29 +21,45 @@ def load_data():
         return json.load(file)
 
 # 챗봇 질의 함수
+from langchain_openai import ChatOpenAI
+
 def ask_chatbot(user_input: str, results: list = [], model_name: str = "gpt-4", temperature: float = 0.7):
     """
-    사용자 입력과 검색 결과를 기반으로 답변 생성
-    :param user_input: 사용자가 입력한 질문
-    :param results: FAISS 검색 결과 리스트
-    :param model_name: 사용할 OpenAI 모델 이름
-    :param temperature: 텍스트 생성 온도
-    :return: 모델의 답변
+    사용자 입력과 검색 결과를 기반으로 GPT 모델의 응답과 추천 게시물 반환
     """
-    # Context 생성
-    context = "너는 수강신청 알리미 챗봇이야. 학생들과 대화와 함께 제공되는 정보를 통해 알맞는 대답을 해줘:\n\n"
+    # context 초기화
+    context = (
+        "너는 수강신청 알리미 챗봇이야. 게시물을 추천해달라는 요청인지 구분하고, "
+        "요청이라면 게시물을 추천해줘.\n\n"
+    )
     
-    for result in results:
-        metadata = result.get("metadata", {})
+    # Document 객체에서 metadata 가져오기
+    for doc in results:
+        # doc is a Document
+        metadata = doc.metadata  # dict 형태
         title = metadata.get("title", "Unknown Title")
         summary = metadata.get("summary", "No summary available")
-        context += f"- Title: {title}\n  Summary: {summary}\n\n"
+        url = metadata.get("url", "No URL")
+
+        # context 문장 생성
+        context += f"- Title: {title}\n  Summary: {summary}\n  URL: {url}\n\n"
     
     # 사용자 질문 추가
     context += f"User Question: {user_input}\nAnswer:"
     
-    # LLM 초기화 및 응답 생성
+    # LLM 호출
     llm = ChatOpenAI(model=model_name, temperature=temperature)
-    response = llm.invoke(context)  # invoke를 사용하여 모델 호출
+    response = llm.predict(context)
 
-    return response
+    # 추천 게시물
+    recommended_posts = []
+    if "**게시물을 추천합니다**" in response:
+        for doc in results:
+            metadata = doc.metadata
+            recommended_posts.append({
+                "title": metadata.get("title", "Unknown Title"),
+                "summary": metadata.get("summary", "No summary available"),
+                "url": metadata.get("url", "No link available")
+            })
+
+    return response, recommended_posts

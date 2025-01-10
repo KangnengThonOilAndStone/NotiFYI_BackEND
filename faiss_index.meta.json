@@ -1,82 +1,1127 @@
 [
     {
-        "category": "학사",
-        "title": "2025-1학기 수강신청 및 강의시간표 배부",
+        "category": "학습/상담",
+        "title": "2024-2 겨울방학 일본어 스터디팀 모집(간바레)",
+        "target": "일본취업 희망자, 겨울방학 동안 일본어 공부를 희망하는 3학년 학생(2025년 4학년 예정), K-MOVE 12기 예비연수생",
+        "application": "2025.1.6 ~ 2025.2.21 (총 5회), 모집기한: 2024.12.27",
+        "summary": "겨울방학 동안 일본어 스터디팀을 모집합니다.",
+        "contact": "이정연 교수 | bijou1224@hanmail.net",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=b288ea47a4d680e2466a8636fcd30124"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024학년도 폭력예방교육(8차) 안내",
+        "target": "2024학년도 재학생(학부, 대학원)",
+        "application": "2024.11.04(월) ~ 2024.12.01(일)",
+        "summary": "2024학년도 폭력예방교육 이수를 통해 필수 조건을 충족해야 합니다.",
+        "contact": "이건 학생들을 위한 공지사항, 031-280-3113, knucc@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=b376a983d3e468aa2cffbcc7d02467e5"
+    },
+    {
+        "category": "학습/상담",
+        "title": "건강한 관계 맺기 특강",
+        "target": "3, 4학년 재학생",
+        "application": "2024년 9월 30일(월) ~ 10월 11일(금)",
+        "summary": "건강한 관계 맺기 특강을 통해 인간관계의 기초를 배우는 기회입니다.",
+        "contact": "마음나눔센터, 이메일: [제공되지 않음], 전화번호: [제공되지 않음]",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=dcaa963e188d50cfd4ac35ecc7cae27d"
+    },
+    {
+        "category": "학습/상담",
+        "title": "강남대학교 마음나눔센터 개인 심리상담 신청안내",
+        "target": "강남대학교 학생",
+        "application": "상시, 방문, 참인재 시스템, 전화로 신청 가능",
+        "summary": "강남대학교 학생을 위한 개인 심리상담 및 심리검사 신청 안내입니다.",
+        "contact": "전화: 031-899-7206, 7205 / 운영시간: 월-금 9시-17시 (12시-13시 점심시간)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=d4249f3f6d61e11401c188ede85d2c41"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024-2학기 'CTL챌린저스' 모집 안내",
+        "target": "습관을 형성하고 싶은 재학생 40명",
+        "application": "2024.08.26.(월) ~ 09.08.(일)",
+        "summary": "CTL 챌린저스 프로그램에 참여할 재학생을 모집합니다.",
+        "contact": "교수학습지원센터, 전화: 031-899-7214",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=d8dc305c8aadc22803e3d2779d0d7f6d"
+    },
+    {
+        "category": "학습/상담",
+        "title": "대학생의 스트레스 관리",
+        "target": "3,4학년 재학생(2023-2학기 특강 미수강자)",
+        "application": "2024년 05월 10일(금) ~ 05월 24일(금)",
+        "summary": "대학생을 위한 스트레스 관리 특강 안내",
+        "contact": "문의처: 마음나눔센터",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=052ca4240c8ee06de10383fcb170e3ec"
+    },
+    {
+        "category": "학습/상담",
+        "title": "약물중독 예방교육 특강 안내",
+        "target": "3,4학년 재학생 (2023-2학기 특강 미수강자)",
+        "application": "2024년 04월 29일 ~ 05월 10일",
+        "summary": "정신과 전문의의 약물중독 예방교육을 제공합니다.",
+        "contact": "문의처: 마음나눔센터, 전화번호: 없음, 이메일: 없음",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=1c08b876187512d441c95ebf1d9a72ef"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024-1학기 또래상담 내담자 모집",
+        "target": "강남대학교 재학생",
+        "application": "신청 링크를 통해 언제든지 신청 가능",
+        "summary": "강남대 또래상담 프로그램에 참여할 재학생을 모집합니다.",
+        "contact": "031-899-7202",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=3672a0f46638932601ef621a5b129d3a"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024-1학기 또래상담 내담자 모집",
+        "target": "강남대학교 학생",
+        "application": "모집기간은 별도로 명시되지 않음",
+        "summary": "강남대학교에서 또래상담 내담자를 모집합니다.",
+        "contact": "전화: 031-899-7202",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=61cb6ef0373bfc6451c315168d5a2deb"
+    },
+    {
+        "category": "학습/상담",
+        "title": "또래상담자 모집",
+        "target": "2024-1학기 재학생",
+        "application": "2024-03-08(금) ~ 03-14(목)",
+        "summary": "2024-1학기 17기 또래상담자를 모집합니다.",
+        "contact": "마음나눔센터, 031-899-7202, sonican@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=bf309288bd0b095998b31e2f1e786c96"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024-1학기 17기 신규 또래상담자 모집 안내",
+        "target": "2024-1학기 재학생",
+        "application": "03.08(금) ~ 03.14(목)",
+        "summary": "또래상담자를 모집하며, 공감 능력을 키울 기회를 제공합니다.",
+        "contact": "마음나눔센터, 031-899-7202, sonican@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=05a4e10999f358294a0d8b2ab0e58af3"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024학년도 신/편입생 진로디자인 성격 5요인 검사 시행 안내",
+        "target": "2024학년도 입학 및 편입하는 학생",
+        "application": "신입생: 2024.02.23. ~ 03.15., 편입생: 2024.02.26. ~ 03.15.",
+        "summary": "2024학년도 신입생과 편입생을 위한 성격 5요인 검사 안내입니다.",
+        "contact": "마음나눔센터 조영숙, 전화번호: 031-899-7201",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=4cf9ec21d271e6892d9f2e9bd52b2002"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024학년도 복학생 진로디자인 성격 5요인 검사 시행 안내",
+        "target": "2024학년도 1학기 복학 승인 완료된 학생 (1년 이내 동일 검사 실시자는 제외)",
+        "application": "2024.02.26. ~ 2024.03.15.",
+        "summary": "복학생을 위한 성격 5요인 검사 시행 안내입니다.",
+        "contact": "마음나눔센터 조영숙, 전화: 031-899-7201",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=3a55af9d7e933189c22e40488e2ecb81"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2023학년도 2학기 기초교양 연계 프로그램 참가자 모집",
+        "target": "기초교양 교과목을 수강하는 재학생 (선착순 모집)",
+        "application": "2023년 9월 1일 금요일까지 (프로그램 마감일이 달라질 수 있음)",
+        "summary": "기초교양 튜터링 프로그램 참가자를 모집합니다.",
+        "contact": "031-280-3847 (공학수학)/3848 (글쓰기)/3650 (컴퓨터프로그래밍, English Clinic)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=4ef8a2b87f7be5cc68312fc0848862f3"
+    },
+    {
+        "category": "학습/상담",
+        "title": "학술전자자원 중 구독 중단 자원 안내",
+        "target": "본교 구성원",
+        "application": "2025년 1월 15일까지 이용 가능",
+        "summary": "일부 학술전자자원의 구독이 2025년 1월 15일자로 중단됩니다.",
+        "contact": "중앙도서관 종합정보자료실, 구내번호 3588",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=98d845def29f76172997f299eee02c91"
+    },
+    {
+        "category": "학습/상담",
+        "title": "재학생 심리·정서 안정지원 프로그램 실태조사",
+        "target": "2024년 마음나눔센터를 이용한 재학생",
+        "application": "2024.12.23(월) - 2025.01.10(금)",
+        "summary": "마음나눔센터가 심리 및 정서 상태 파악을 위한 설문조사를 실시합니다.",
+        "contact": "031-899-7202, sonican@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=547d8a98d920fb64dfb634788a41643f"
+    },
+    {
+        "category": "학습/상담",
+        "title": "재학생 심리.정서 안정지원 프로그램 실태조사",
+        "target": "2024년 마음나눔센터를 이용한 재학생",
+        "application": "2024년 12월 23일(월) - 2025년 01월 06일(월)",
+        "summary": "학생들의 심리 및 정서적 상태 파악을 위한 설문조사 안내 입니다.",
+        "contact": "031-899-7202, soniccan@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=984dbcb5f2ff326f9bfc160353229481"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024-2 겨울방학 일본어 스터디팀 모집(간바레)",
+        "target": "일본 취업을 희망하는 3학년 학생 및 K-MOVE 12기 예비 연수생",
+        "application": "2024.12.27까지 신청",
+        "summary": "일본어 스터디팀 모집을 통해 일본 취업을 준비하는 기회를 제공합니다.",
+        "contact": "이정연 교수, 이메일: bijou1224@hanmail.net",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=b288ea47a4d680e2466a8636fcd30124"
+    },
+    {
+        "category": "학습/상담",
+        "title": "대학생의 스트레스 관리 특강",
+        "target": "3,4학년 재학생 (기존 특강 미수강자)",
+        "application": "2024.12.16 ~ 12.30",
+        "summary": "대학생을 위한 스트레스 관리 특강 안내입니다.",
+        "contact": "",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=aea89072d6ce7aba1dc1e318c6d6b5b7"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024-2학기 겨울방학 집단상담 참가자 모집",
+        "target": "강남대학교 재학생",
+        "application": "신청기간: 11/21(목)부터 12/3(일)까지",
+        "summary": "2024-2학기 겨울방학에 참여할 집단상담 참가자를 모집합니다.",
+        "contact": "문의: 031-899-7201, cysook77@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=bf7821d2642a25de2777c03aabb025ed"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024-winter CTL챌린저스 선발 발표",
+        "target": "CTL챌린저스에 지원한 모든 학생",
+        "application": "2024년 겨울 학기",
+        "summary": "CTL챌린저스 프로그램에 지원한 모든 학생에게 합격 여부를 문자로 안내하며, 세부 일정과 추가 선발 안내를 포함한다.",
+        "contact": "문의: 031-899-7214",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=854d6cdcdc7ec152587e89e135f56836"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024-2학기 겨울방학 집단상담 참가자 모집",
+        "target": "대학생, 개인상담 경험이 필요한 분",
+        "application": "신청기간: 11/21(목)~ 집단상담 시작 전까지",
+        "summary": "2024-2학기 겨울방학 집단상담 참가자를 모집합니다.",
+        "contact": "문의: 031-899-7201, cysook77@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=ba2069a524524adb02160c81e0f00354"
+    },
+    {
+        "category": "학습/상담",
+        "title": "2024학년도 CTL 수요조사 참여 안내",
         "target": "전체 재학생",
-        "application": "2025년 1월 15일(월) 10:00 ~ 1월 16일(화) 15:59",
-        "summary": "2025-1학기 수강신청 기간 및 강의시간표에 대한 안내사항을 전달합니다.",
-        "contact": "문의처: 교학팀, 전화번호: 031-280-3873, 이메일: N/A"
+        "application": "~12.06.(금)",
+        "summary": "CTL의 학습지원 프로그램 만족도를 조사한다.",
+        "contact": "문의처: CTL, 전화번호 및 이메일 정보는 미제공",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=5de615227071e1f594d62ebd0520f6c3"
+    },
+    {
+        "category": "학습/상담",
+        "title": "CTL DAY 친구 추천 이벤트 당첨자 발표",
+        "target": "CTL DAY 참여 학생들",
+        "application": "N/A",
+        "summary": "CTL DAY 친구 추천 이벤트의 당첨자를 발표합니다.",
+        "contact": "교수학습지원센터, 연락처 미제공",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=b46b6e20bc53a0234ac9fc9a238b113a&encMenuBoardSeq=7e6a2c651f8c92969a84a408582b213c"
+    },
+    {
+        "category": "학사",
+        "title": "2025-1학기 수강신청 안내 및 강의시간표 배부",
+        "target": "전체 재학생",
+        "application": "2025.01.13. 14:00 - 2025.02.02. 23:59",
+        "summary": "2025-1학기 수강신청 안내 및 강의시간표에 대한 공지.",
+        "contact": "교무처, 연락처: 010-1234-5678, 이메일: example@email.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=6e12b719619a10531e46f6d040ad5fe6"
     },
     {
         "category": "학사",
         "title": "2024학년도 동계 계절수업 성적확인 및 이의신청 안내",
-        "target": "2024학년도 동계 계절수업 수강 학생",
+        "target": "모든 학생",
         "application": "2025.01.10.(금) 09:00 ~ 15:00",
-        "summary": "2024학년도 동계 계절수업 성적 확인 및 이의신청 관련 안내입니다.",
-        "contact": "교무처, 031-280-3545"
+        "summary": "2024학년도 동계 계절수업 성적확인 및 이의신청 안내입니다.",
+        "contact": "교무처, 전화: 031-280-3545",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=6b92f3c924c60ecdc5b2cd1a49c956be"
     },
     {
         "category": "학사",
         "title": "2024-2학기 강의평가 결과 열람 안내(교.강사용)",
-        "target": "2024학년도 2학기 강의를 담당한 모든 교.강사님",
-        "application": "2025.01.10.(금) 10시부터 열람 가능",
-        "summary": "2024-2학기 강의평가 결과를 교.강사들이 홈페이지를 통해 열람할 수 있도록 안내합니다.",
-        "contact": "교무처, 전화번호 또는 이메일 정보 없음"
+        "target": "2024학년도 2학기에 강의를 담당한 모든 교.강사님",
+        "application": "2025.01.10.(금) 10시부터 강의평가 결과 열람 가능",
+        "summary": "2024학년도 2학기 강의평가 결과를 2025년 1월 10일부터 열람할 수 있다.",
+        "contact": "",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=87ca4537830263073163d01d2d449b63"
     },
     {
         "category": "학사",
         "title": "2025학년도 1학기 강사초빙",
-        "target": "고등교육 제16조 및 대학교원 자격기준에 따른 요건을 갖춘 자, 기타 세부 요건 충족 자",
-        "application": "2025.01.08(수) ~ 2025.01.14(일) 23:59까지",
-        "summary": "2025학년도 1학기 강남대학교 강사 초빙 공고.",
-        "contact": "문의처: 강남대학교, 전화번호: [전화번호 없음], 이메일: [이메일 없음]"
+        "target": "고등교육법 제16조 및 '대학교의 자격기준'에 규정된 자격 이상을 가진 자",
+        "application": "2025년 01월 08일 ~ 2025년 01월 14일 23:59까지",
+        "summary": "강남대학교에서 2025학년도 1학기 강사를 모집합니다.",
+        "contact": "강남대학교 인사담당부서, 전화번호: 031-123-4567, 이메일: contact@gangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=81dfdeccb135426fad87fc5dbbd00eee"
     },
     {
         "category": "학사",
         "title": "2025학년도 1학기 전임교원 초빙(2차) 공고",
-        "target": "최소 학사 학위를 소지한 자, 분야별 경력 10년 이상",
+        "target": "박사학위 소지자, 전공 관련 분야 전문가, 연구실적 필요",
         "application": "2025년 1월 16일 10:00 ~ 2025년 1월 21일 14:00까지",
-        "summary": "2025학년도 1학기 전임교원 초빙 공고로, 지원자는 경력 및 자격 요건을 충족해야 한다.",
-        "contact": "전화: 031-280-3537, 이메일: shkim0822@kangnam.ac.kr"
+        "summary": "2025학년도 1학기 전임교원 초빙을 위한 공고.",
+        "contact": "전화번호: 031-280-3537, 이메일: shkim0822@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=4194b74fa222c22682dd4dbcfe655679"
     },
     {
         "category": "학사",
         "title": "2025-1학기 재입학 접수 안내",
-        "target": "대상: 재입학 대상자는 자퇴, 학사경고3회, 전과목과락, 미등록 제적 등으로 신청일 이전에 제적된 자",
-        "application": "모집기간: 2025.01.06(월) ~ 01.16(목)",
-        "summary": "2025-1학기 재입학 접수를 위한 안내사항.",
-        "contact": "문의처: 교학팀, 전화번호: 031-280-3874, 이메일: 교학팀 본부 이메일 주소, 기타 연락처: 031-280-3461 (학과별), 031-280-7121-3 (학생지원)"
+        "target": "재입학 신청자는 고등학교 졸업자 또는 동등한 자격을 가진 자",
+        "application": "2025년 1월 6일(월)부터 1월 16일(목)까지",
+        "summary": "2025학기 재입학 신청 안내 및 절차 정보",
+        "contact": "교학팀: 031-280-3874, 031-280-3461; 이메일: 교학@대학명.edu",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=79c940b8f0656c0fb7bbd2d467d5ba18"
+    },
+    {
+        "category": "학사",
+        "title": "2024학년도 동계 계절수업 강의평가 실시 안내",
+        "target": "계절수업 수강생 전체",
+        "application": "2025.01.08.(수) 10:00 ~ 2025.01.10.(금) 15:00",
+        "summary": "2024학년도 동계 계절수업 강의평가를 실시하며, 모든 수강생의 참여를 요청한다.",
+        "contact": "교무처 교무팀, 전화: 031-280-3545",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=fa68037097e40b36f0a118ca5e2badb4"
+    },
+    {
+        "category": "학사",
+        "title": "2025-1학기 전부전과 신청 접수 안내",
+        "target": "2025-1학기 전부전과를 신청하고자 하는 재학생",
+        "application": "신청 기간: 2025.01.06(월) 10:00 ~ 01.10(수) 23:59",
+        "summary": "2025-1학기 전부전과 신청이 2025년 1월 6일부터 10일까지 진행됩니다.",
+        "contact": "문의처: 교무부, 전화번호: 031-280-3663, 이메일: 교무팀팀",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=736937039e9456979e73c2ab49564f67"
+    },
+    {
+        "category": "학사",
+        "title": "2025-1학기 복학 신청 안내",
+        "target": "2025-1학기 복학 희망자",
+        "application": "복학 신청 기간: 2025.01.02(월) ~ 01.13(월); 수강 신청 기간: 2025.02.02(월) ~ 02.06(금)",
+        "summary": "2025-1학기 복학을 위한 신청 방법 및 일정 안내.",
+        "contact": "문의처: 대학직원 031-280-3595-6, 031-280-3563; 이메일: 해당 부서 문의; 전화번호: 031-280-3595",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=04dd9e64bec08d2db7cbc2ea6861175d"
+    },
+    {
+        "category": "학사",
+        "title": "2025학년도 1학기 전임교원 공개초빙",
+        "target": "전임교원, 사회복지, 경영학, 법학, 컴퓨터 공학, 전기, 부동산, 건축, 영어교육 관련 전공",
+        "application": "2024년 11월 27일 10:00 ~ 12월 04일 12:00까지",
+        "summary": "2025학년도 전임교원 공개초빙 공고.",
+        "contact": "강남대학교 교무팀, 전화: 031-289-3537, 이메일: shimk0822@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=c54d0934cec43c8e79cadab8b88c305e"
+    },
+    {
+        "category": "학사",
+        "title": "교학팀 담당자 안내",
+        "target": "학생",
+        "application": "상시, 전화를 통해 문의",
+        "summary": "교학팀의 담당자와 연락처 안내입니다.",
+        "contact": "교학1팀: 031-280-3872, 교학2팀: 031-280-3442, 이메일 및 기타 연락처는 명시되어 있지 않음.",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=99eaa6c55c20ddc2adbf3731668d27e2"
+    },
+    {
+        "category": "학사",
+        "title": "2024-2학기 강의평가 결과 열람 안내(교.강사용)",
+        "target": "2024학년도 2학기에 강의를 담당한 교.강사",
+        "application": "2025.01.10. 10시부터",
+        "summary": "2024-2학기 강의평가 결과를 2025년 1월 10일부터 열람할 수 있습니다.",
+        "contact": "문의처: 강남대학교 교무처, 연락처: 031-123-4567, 이메일: admin@kangnam.ac.kr, 전화번호: 031-123-4567",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=87ca4537830263073163d01d2d449b63"
+    },
+    {
+        "category": "학사",
+        "title": "2024학년도 동계방학 단축근무 및 휴무일 안내",
+        "target": "학사 행정 서비스 이용자",
+        "application": "2025.01.06 ~ 02.14",
+        "summary": "동계방학 기간 중 단축근무 및 휴무일 안내",
+        "contact": "문의처: 학사관리부, 전화번호: 000-0000-0000, 이메일: info@example.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=8b39b4a96ca4c371880bc040c072fc4a"
+    },
+    {
+        "category": "학사",
+        "title": "2025-1학기 수강신청 및 강의시간표 배부",
+        "target": "전체 재학생",
+        "application": "2025년 1월 13일 14시부터 1월 16일 23시 59분까지 (수강신청 변경기한은 2025년 2월 3일까지)",
+        "summary": "2025-1학기 수강신청 안내와 강의시간표 배부에 대한 공지.",
+        "contact": "교무팀, 031-280-3873, 031-280-3874, 031-280-3872, 031-280-3836",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=6e12b719619a10531e46f6d040ad5fe6"
+    },
+    {
+        "category": "학사",
+        "title": "2025학년도 1학기 강사초빙",
+        "target": "고등교육법 제16조 및 대학교원 자격기준에 따라 교원 자격을 가진 자, 만 65세 이하, 영어강사 지원자는 요구조건 충족자",
+        "application": "2025년 1월 8일 ~ 2025년 1월 14일 23:59까지",
+        "summary": "2025학년도 1학기 강남대학교 강사 초빙 안내",
+        "contact": "문의처: 강남대학교 인사팀, 전화번호: [연락처 미제공], 이메일: [이메일 미제공]",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=81dfdeccb135426fad87fc5dbbd00eee"
+    },
+    {
+        "category": "학사",
+        "title": "2025학년도 1학기 전임교원 초빙(2차) 공고",
+        "target": "해당 분야의 박사 학위 소지자, 연구 및 교육 경력 보유자",
+        "application": "2025년 1월 16일(월) 10:00 ~ 2025년 1월 21일(화) 14:00까지",
+        "summary": "2025학년도 1학기 전임교원 초빙을 위한 공고 안내입니다.",
+        "contact": "전화: 031-280-3537, 이메일: shkim0822@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=4194b74fa222c22682dd4dbcfe655679"
+    },
+    {
+        "category": "학사",
+        "title": "2024학년도 동계 계절수업 성적확인 및 이의신청 안내",
+        "target": "모든 학생",
+        "application": "2025.01.10.(금) 09:00 - 15:00",
+        "summary": "2024학년도 동계 계절수업 성적 확인 및 이의신청 관련 안내입니다.",
+        "contact": "교무처 (031-280-3545)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=6b92f3c924c60ecdc5b2cd1a49c956be"
+    },
+    {
+        "category": "학사",
+        "title": "2025-1학기 재입학 접수 안내",
+        "target": "재입학 대상: 이전에 제적된 기초대학 학생",
+        "application": "모집기간: 2025.01.06.(월) ~ 01.16.(목)",
+        "summary": "2025-1학기 재입학 신청 안내입니다.",
+        "contact": "문의처: 교학팀, 전화번호: 031-280-3874, 이메일: 해당 부서 이메일 확인 필요.",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=79c940b8f0656c0fb7bbd2d467d5ba18"
+    },
+    {
+        "category": "학사",
+        "title": "2024학년도 동계 계절수업 강의평가 실시 안내",
+        "target": "계절수업 수강생 전채",
+        "application": "2025.01.08(수) 10:00 ~ 2025.01.10(금) 15:00",
+        "summary": "2024학년도 동계 계절수업 강의평가가 실시됩니다.",
+        "contact": "교무처 교무팀, 전화 031-280-3545",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=fa68037097e40b36f0a118ca5e2badb4"
+    },
+    {
+        "category": "학사",
+        "title": "2024-2학기 타전공 교과목 전공 인정 신청 안내",
+        "target": "2021학년도 이후 입학자(2021학번 신/편입자)로 2024-2학기 7학기 차 이상 재학생(조건 졸업대상자는 6학기 이상)",
+        "application": "2025.01.06(월) 10:00 ~ 2025.01.15(수) 23:59",
+        "summary": "2024-2학기 타전공 교과목을 전공으로 인정받기 위한 신청 안내입니다.",
+        "contact": "교학1팀(복수전공, 경영관리팀) : 031-280-3872, 교학2팀(글로벌인재학부, 공과대학, 사범대학) : 031-280-3463",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=58f37a987ade3d1c5a8c779048afe389"
+    },
+    {
+        "category": "학사",
+        "title": "기관생명윤리위원회 제2024-11차 정기심의 신청 안내",
+        "target": "인간대상연구 관련 연구자들",
+        "application": "2024. 12. 24. ~ 2025. 01. 07. 오후 5:00 마감",
+        "summary": "기관생명윤리위원회 정기심의 신청 안내입니다.",
+        "contact": "문의처: 기관생명윤리위원회, 전화: 031-280-3404~5, 이메일: irb@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=93e3830d2c2f073eaa01f05161658de5"
+    },
+    {
+        "category": "학사",
+        "title": "2025-1학기 수강신청 및 강의시간표 배부",
+        "target": "전체 재학생",
+        "application": "2025년 1월 13일 14시부터 1월 16일 23시 59분까지",
+        "summary": "2025-1학기 수강신청 및 강의시간표 안내입니다.",
+        "contact": "강남대학교 교무팀, 전화: 031-280-3873, 이메일: 해당없음",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=6e12b719619a10531e46f6d040ad5fe6"
+    },
+    {
+        "category": "학사",
+        "title": "2024학년도 동계 계절수업 성적확인 및 이의신청 안내",
+        "target": "2024학년도 동계 계절수업에 수강한 학생들",
+        "application": "2025.01.10.(금) 09:00 - 15:00",
+        "summary": "2024학년도 동계 계절수업 성적확인 및 이의신청 방법 안내",
+        "contact": "교무처, 031-280-3545",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=6b92f3c924c60ecdc5b2cd1a49c956be"
+    },
+    {
+        "category": "학사",
+        "title": "2024-2학기 강의평가 결과 열람 안내(교.강사용)",
+        "target": "본 대학교 강의를 담당한 모든 교강사",
+        "application": "2025.01.10. 10시부터 열람 가능",
+        "summary": "2024-2학기 강의평가 결과를 홈페이지에서 열람할 수 있는 방법과 주의사항 안내.",
+        "contact": "문의처: 교무처, 이메일: office@kangnam.ac.kr, 전화번호: 031-123-4567",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=87ca4537830263073163d01d2d449b63"
+    },
+    {
+        "category": "학사",
+        "title": "2025학년도 1학기 강사초빙",
+        "target": "고등교육법 제16조 및 대학교원 자격기준에 관한 규정에 따라 강사 이상의 자격을 가진 자.",
+        "application": "2025년 1월 8일 ~ 2025년 1월 14일 23:59까지",
+        "summary": "강남대학교에서 2025학년도 1학기 강사를 모집합니다.",
+        "contact": "문의처: 강남대학교, 전화번호: [정보 없음], 이메일: [정보 없음]",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=81dfdeccb135426fad87fc5dbbd00eee"
+    },
+    {
+        "category": "학사",
+        "title": "2025학년도 1학기 전임교원 초빙(2차) 공고",
+        "target": "전임교원 지원 자격은 관련 분야 박사학위 소지자 및 산업체 경력 10년 이상 경력자",
+        "application": "2025년 1월 16일 10:00 ~ 2025년 1월 21일 14:00까지",
+        "summary": "2025학년도 1학기 전임교원을 초빙하며, 지원 자격 및 접수 방법을 안내한다.",
+        "contact": "강남대학교 교원초빙팀, 전화: 031-280-3537, 이메일: shkimm0822@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=4194b74fa222c22682dd4dbcfe655679"
+    },
+    {
+        "category": "학사",
+        "title": "2025-1학기 재입학 접수 안내",
+        "target": "재입학 지원자: 자퇴, 학사경고 및 미등록으로 제적된 자",
+        "application": "2025.01.06(월) ~ 2025.01.16(목)",
+        "summary": "2025-1학기 재입학 접수를 위한 안내문입니다.",
+        "contact": "문의처: 교학팀, 전화번호: 031-280-3874, 이메일: 해당 부서 확인 필요",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=79c940b8f0656c0fb7bbd2d467d5ba18"
     },
     {
         "category": "학사",
         "title": "2024학년도 동계 계절수업 강의평가 실시 안내",
         "target": "계절수업 수강생 전체",
         "application": "2025.01.08(수) 10:00 ~ 2025.01.10(금) 15:00",
-        "summary": "2024학년도 동계 계절수업 강의평가를 실시합니다.",
-        "contact": "교무처, 전화: 031-280-3545"
+        "summary": "2024학년도 동계 계절수업의 강의평가가 진행됩니다.",
+        "contact": "교무처 교무팀, 전화: 031-280-3545",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=fa68037097e40b36f0a118ca5e2badb4"
     },
     {
         "category": "학사",
         "title": "2025-1학기 전부전과 신청 접수 안내",
-        "target": "2024-2학기 전과에 신청 가능한 1학기 1차 학기 이후의 학생 (2학기 6학기 이하는 신청 불가)",
-        "application": "2025년 1월 6일 10:00 ~ 1월 10일 23:59",
-        "summary": "2025-1학기 전부전과 신청 안내 공지.",
-        "contact": "교육부서, 담당자: 교학팀, 전화번호: 031-280-3663, 이메일: 정보 미제공"
+        "target": "1학년 1학기 이상 이수한 학생, 2학기 이상 6학기 이내 재등록학생",
+        "application": "접수 기간: 2025.01.06(월) 10:00 - 01.10(수) 23:59",
+        "summary": "2025-1학기 전부전과 신청에 대한 안내문입니다.",
+        "contact": "교무부서: 031-280-3663, 전부전과 담당: 031-280-3874, 전화번호: 031-280-3461, 이메일: 교무과 이메일 없음",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=736937039e9456979e73c2ab49564f67"
     },
     {
         "category": "학사",
         "title": "2025-1학기 복학 신청 안내",
-        "target": "2025-1학기 복학희망자 및 조기복학자",
-        "application": "복학 신청 기간: 2025.01.02(목) ~ 01.13(월), 추후 신청 가능",
-        "summary": "2025-1학기 복학 신청 및 절차 안내 문서입니다.",
-        "contact": "문의처: 학생처, 연락처: 031-280-3595, 이메일: 해당 학사팀으로 문의"
+        "target": "2025-1학기 복학예정자 또는 조기복학을 희망하는 자",
+        "application": "복학 신청 기간: 2025.01.02(목) ~ 1.13(월), 수강 신청 기간: 2025.02.02(월) ~ 02.06(금) 등",
+        "summary": "2025-1학기 복학 신청 및 관련 절차에 관한 안내",
+        "contact": "문의처: 학생복지과, 전화번호: 031-280-3595-6, 이메일: -",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=04dd9e64bec08d2db7cbc2ea6861175d"
     },
     {
         "category": "학사",
         "title": "2025학년도 1학기 전임교원 초빙 공고",
-        "target": "교원 및 학문 분야별 박사 학위 소지자",
-        "application": "2024년 11월 27일 10:00 ~ 2024년 12월 04일 12:00까지",
-        "summary": "2025학년도 1학기 전임교원 채용 공고",
-        "contact": "강남대학교 교무처, 전화: 031-220-3537, 이메일: shimk0822@kangnam.ac.kr"
+        "target": "박사학위 소지자, 해당 분야 전문 지식과 경력을 갖춘 자",
+        "application": "접수기간: 2024년 11월 27일 10:00 ~ 2024년 12월 4일 12:00",
+        "summary": "2025학년도 1학기 전임교원 공개초빙 공고",
+        "contact": "강남대학교 교총장실, 전화: 031-280-3537, 이메일: shkim0822@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=c54d0934cec43c8e79cadab8b88c305e"
+    },
+    {
+        "category": "학사",
+        "title": "교학팀 담당자 안내",
+        "target": "학생 및 관련 사용자",
+        "application": "상시 접수",
+        "summary": "교학팀의 담당자 연락처를 안내하는 공지사항입니다.",
+        "contact": "교학1팀: 031-280-3872/3874/3877\n교학2팀: 031-280-3442/3458/3456",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=99eaa6c55c20ddc2adbf3731668d27e2"
+    },
+    {
+        "category": "학사",
+        "title": "사회봉사인증제 안내",
+        "target": "2019학년도 입학자부터 전체 학생",
+        "application": "상시 신청 가능, 졸업 전까지 활동 완료 필요",
+        "summary": "졸업을 위한 사회봉사인증제는 30시간 이상 봉사와 2회 특강 이수를 요구합니다.",
+        "contact": "강남대학교 글로컬사회공헌센터, 공식 웹사이트: kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=e01fcc08e093f3b5ed0ce1d826f82fca"
+    },
+    {
+        "category": "학사",
+        "title": "강남대학교 기관생명윤리위원회(IRB) 연구참여 공고문",
+        "target": "강남대학교 학내 구성원, IRB 신청 경험 여부 관계없이 ‘인문사회과학 IRB’에 관심 있는 자",
+        "application": "2024년 8월 ~ 2025년 3월까지, 최대 100명 모집",
+        "summary": "강남대 IRB가 인문사회과학 IRB 심의기준 연구에 참여할 학내 구성원을 모집합니다.",
+        "contact": "문의: 010-7450-0248 윤수인 (강남대학교 IRB 전담교수)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=b54de05abaae5a6c6986d09f56e546d1"
+    },
+    {
+        "category": "학사",
+        "title": "2024학년도 동계 계절수업 개설과목 안내 및 추가 수강신청, 등록 안내",
+        "target": "2학년 이상 재학생 및 타전공",
+        "application": "2024.12.04.(화) ~ 2024.12.06.(목) 추가 수강신청 2024.12.10.(월) ~ 2024.12.11.(화) 수강기간 2024.12.16.(월) ~ 2025.01.07.(화)",
+        "summary": "2024학년도 동계 계절수업 개설과목 및 추가 수강신청 안내",
+        "contact": "교무팀 연락처: 031-280-3545, 이메일: 교무팀 이메일 031-280-3542, 031-280-3448",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=04389cb31b794f21fa041eb984f66933"
+    },
+    {
+        "category": "학사",
+        "title": "기상 악화(폭설)에 따른 금일(11월 28일) 전임교원 초빙 방문접수 중단 안내",
+        "target": "전임교원 초빙 지원자",
+        "application": "2023년 11월 28일",
+        "summary": "폭설로 인해 오늘 전임교원 초빙 방문접수가 중단됩니다.",
+        "contact": "강남대학교 교직원 인사처, 2024.11.28, 강남대학교",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=755baba3e2f45a6f3eef7004a0f77814"
+    },
+    {
+        "category": "학사",
+        "title": "기상 악화에 따른 11/28(목) 전체 수업 휴강 안내",
+        "target": "강남대학교 학생들",
+        "application": "2024년 11월 28일",
+        "summary": "11월 28일 모든 수업이 기상 악화로 인해 전면 휴강됩니다.",
+        "contact": "강남대학교 교무팀, 전화번호 미제공, 이메일 미제공",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=0f3f362dbec0e6b07717f87830f6209b"
+    },
+    {
+        "category": "학사",
+        "title": "야간 수업 휴강 안내",
+        "target": "강남대학교 재학생",
+        "application": "해당 없음",
+        "summary": "2024년 11월 27일 폭설로 인한 야간 수업 휴강 안내",
+        "contact": "강남대학교 교무팀 / 이메일: info@gangnam.ac.kr / 전화번호: 02-123-4567",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=897d6f4f38bcde0f8c63ad01de8838da"
+    },
+    {
+        "category": "학사",
+        "title": "기관생명윤리위원회 제2024-10차 정기심의 신청 안내",
+        "target": "인간대상연구 관련 연구 참여자",
+        "application": "2024. 11. 26(화) ~ 2024. 12. 10(화) 오후 5:00까지",
+        "summary": "2024년 12월 24일에 실시되는 정기심의 신청 안내입니다.",
+        "contact": "031-280-3404~5 (기관생명윤리위원회)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=6c110ef9b025c744bf2b492b2841c93e"
+    },
+    {
+        "category": "학사",
+        "title": "2024-2학기 진로 맞춤형 i-로드맵 시행 안내",
+        "target": "학생 전원",
+        "application": "2024.11.28(목) ~ 12.13(금)",
+        "summary": "2024-2학기 진로 맞춤형 i-로드맵의 수립 기간을 연장하여 안내합니다.",
+        "contact": "교무팀(031-280-3440)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=4d544a81d900dcffbd07e11f681e5053"
+    },
+    {
+        "category": "학사",
+        "title": "2025학년도 1학기 전임교원 초빙 공고",
+        "target": "박사학위 소지자 및 관련 분야 경험이 있는 자",
+        "application": "2024년 11월 27일 10:00 ~ 2024년 12월 4일 12:00까지",
+        "summary": "2025학년도 1학기 전임교원 공개초빙 공고 안내.",
+        "contact": "강남대학교 교무처, 전화번호: 031-289-3537, 이메일: shimk0822@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=c54d0934cec43c8e79cadab8b88c305e"
+    },
+    {
+        "category": "학사",
+        "title": "2024학년도 2학기 강남대학교 특별계약교원 초빙",
+        "target": "고등학교 졸업자 및 관련 전공의 자격을 갖춘 자",
+        "application": "2024년 11월 20일(수) ~ 2024년 11월 26일(화) 17:00까지",
+        "summary": "강남대학교에서 2024학년도 2학기 특별계약교원을 공개 초빙합니다.",
+        "contact": "강남대학교 인사팀 (전화: 280-3537, 이메일: shkim0822@kangnam.ac.kr)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=c5dc4b1d7b4dd402e5e6a7a8471eb55c&encMenuBoardSeq=d060052d67d991abc226b54e1728f889"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 한국장학재단 학자금대출 신청 및 실행 안내",
+        "target": "대출 신청은 학부모 및 학생 대상, 성적 기준 및 연령 제한 있음.",
+        "application": "2025년 1학기: 2024.01.03~2024.04.24 신청, 대출실행 2024.01.03~2024.04.25.",
+        "summary": "2025-1학기 한국장학재단 학자금대출 신청 안내 및 진행 일정.",
+        "contact": "문의처: 한국장학재단, 연락처: 1599-2000, 이메일: kosaf.go.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=1607d3a7abefc06667dd133dcdb819d0"
+    },
+    {
+        "category": "장학",
+        "title": "제34기 심전국제교류재단 장학생 선발 안내",
+        "target": "강남대학교 졸업 및 대학원 석·박사 과정 재학생 (2025-1학기 복학 예정자 포함)",
+        "application": "접수기간: 1월 24일(금)까지",
+        "summary": "강남대학교 재학생을 위한 심전국제교류재단 장학생 선발 안내입니다.",
+        "contact": "문의처: 심전국제교류재단 사무국, 전화번호: 02-540-5203, 010-9087-7157, 이메일: shimjeon@hanmail.net",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=818b2337507884297fd793e926534b12"
+    },
+    {
+        "category": "장학",
+        "title": "2025 KB라이프 장학생 신청 안내",
+        "target": "2025년 1월 말까지 생명보험 가입가정의 자녀로 고등학교 장학생으로 지원하는 자",
+        "application": "모집 기간: 2025. 2. 2(화) ~ 23:59까지",
+        "summary": "2025 KB라이프 장학생을 모집하는 안내.",
+        "contact": "문의처: KB라이프생명 사회공헌재단, 전화번호: 02-2144-2084, 이메일: klblife.foundation@gmail.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=0d0450b0b224bfdaf6eff6f3b645e307"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 푸른등대 기부장학금 신청 안내",
+        "target": "대한민국 국적의 국내 대학교 재학생 및 대학원생",
+        "application": "2024년 12월 27일(금) 9시 ~ 2025년 1월 20일(월) 18시",
+        "summary": "2025-1학기 푸른등대 기부장학금 신청 안내입니다.",
+        "contact": "한국장학재단, 전화 1599-2290",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=07f904ef97321b7debb862e8f771ad0a"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 청년창업농장학생 선발계획 안내",
+        "target": "대한민국 국적을 가진 대학교에 재학 중인 3학년 이상 (전문대 및 농업계 대학 농식품계열 학과는 1학년 2학기 이상)의 만 40세 미만 학생",
+        "application": "2024년 12월 23일 ~ 2025년 1월 7일",
+        "summary": "2025-1학기 청년창업농장학생 선발을 위한 안내입니다.",
+        "contact": "문의: 한국농어촌희망재단, 전화번호: 02-6958-9464",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=fc5a605fc77b1f1849e102f7f2eeae4d"
+    },
+    {
+        "category": "장학",
+        "title": "제29회 (재)부산진구장학회 장학생 선발 공고",
+        "target": "고등학생, 대학생, 지역인재(대학생)",
+        "application": "2025년 1월 6일 ~ 1월 17일",
+        "summary": "부산진구장학회의 제29회 장학생 선발 계획 공고.",
+        "contact": "부산진구장학회, 전화번호: 051-806-9688, 이메일: info@busanjinsf.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=b43b44e44f9bbeb4f1acaf6ae2db1ffe"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 성적장학생 선발 일정 및 장학금 포기 신청 기간 안내",
+        "target": "2024-2학기 성적장학금 수혜자 및 2025-1학기 성적장학생 선발 대상자",
+        "application": "2024.12.23(일)~2025.01.07(화)",
+        "summary": "2025-1학기 성적장학생 선발 일정과 장학금 포기 신청 기간에 대한 안내입니다.",
+        "contact": "장학복지팀, 전화번호: [연락처], 이메일: [이메일]",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=f3bb83085ec7e437e69cf596b2a4466a"
+    },
+    {
+        "category": "장학",
+        "title": "2025년도 신규 협성장학생 선발 신청 안내",
+        "target": "부산·울산·경남지역 고교 졸업생 및 국내 4년제 이상 대학교 신입생 또는 2025년 기준 2~3학년 재학생",
+        "application": "2024년 12월 16일(월) ~ 2025년 1월 6일(월)",
+        "summary": "2025년 부산·울산·경남지역 고교 졸업생을 위한 협성장학생 선발 안내.",
+        "contact": "협성문화재단, 전화 051-503-0341",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=e3bbd576c18387e5e1b0cbefed6ea879"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 한국장학재단 학자금대출 신청 안내",
+        "target": "2025학년도 1학기에 학자금대출을 필요로 하는 모든 학생",
+        "application": "사전신청 일정: 2024. 11. 21.(목) 오전 9시부터 시작",
+        "summary": "2025학년도 1학기 한국장학재단 학자금대출의 사전신청이 2024년 11월 21일부터 가능하다.",
+        "contact": "관련문의: 1599-2000",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=1f3251115df71438533c88c58efdf089"
+    },
+    {
+        "category": "장학",
+        "title": "2024-2학기 공로장학금 신청 안내",
+        "target": "정규학기 재학생",
+        "application": "2024-2학기, 2025.01.31까지",
+        "summary": "2024-2학기 공로장학금 신청에 대한 안내.",
+        "contact": "장학복지팀, 전화번호: 000-0000, 이메일: scholarship@university.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=71aa510d7a708770ee428fe845711eee"
+    },
+    {
+        "category": "장학",
+        "title": "장학금 포기 신청 기간 시행 안내",
+        "target": "매학기 장학금 포기 신청을 원하는 학생",
+        "application": "신청기간 및 세부사항 안내",
+        "summary": "매학기 장학금 포기 신청이 가능하며, 세부 요건과 방법이 안내됩니다.",
+        "contact": "장학복지팀",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=ec095d94423032b3755a90c0fb7bfe12"
+    },
+    {
+        "category": "장학",
+        "title": "장학금 지급 계좌 등록 및 정비 안내 (신입,편입,재학생)",
+        "target": "신입생, 편입생, 재학생",
+        "application": "2024년 1학기(신입생 장학금 신청 기간: 10월 20일~30일)",
+        "summary": "장학금 지급을 위한 계좌 등록 및 정비 안내.",
+        "contact": "장학복지팀, 학교 이메일 및 전화 번호는 홈페이지 참조 필요",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=0aec8df16606d0512db9f3d0eeead601"
+    },
+    {
+        "category": "장학",
+        "title": "2024학년도 대학생 청소년교육지원장학금 멘토 모집 안내",
+        "target": "대학생, 특수교육 관련 전공자",
+        "application": "2024년, 일정 미정",
+        "summary": "2024학년도 대학생 청소년교육지원장학금 멘토를 모집합니다.",
+        "contact": "문의처: 각 기관 연락처 기재 / 예) 박승호: 010-3716-2953",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=15a7513be89e6f93c2fd5fa81916ba8c"
+    },
+    {
+        "category": "장학",
+        "title": "2024학년도 다문화탈북학생 멘토링장학금 신청 안내",
+        "target": "다문화 탈북학생과 대학생",
+        "application": "2024년 9월 10일(화) ~ 2025년 2월 28일(금)",
+        "summary": "다문화탈북학생 멘토링장학금 신청 안내.",
+        "contact": "전화: 031-280-3548, 이메일: knu3548@naver.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=2b12c26418e5bb4f191d7ace310373b1"
+    },
+    {
+        "category": "장학",
+        "title": "강남광장 장학·학생복지 Q&A 운영 안내",
+        "target": "학생 및 장학금 신청자",
+        "application": "특별한 모집기간 및 접수기간은 기재되어 있지 않음",
+        "summary": "강남광장에서 장학금 및 학생복지 관련 Q&A를 운영합니다.",
+        "contact": "문의처 및 연락처 정보는 제공되지 않음.",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=6dde85b6f9e468e2e4bfa73e422d0e04"
+    },
+    {
+        "category": "장학",
+        "title": "장학제도 활성화를 위한「장학금 FAQ」시행 안내",
+        "target": "교내장학금 지원자: 성적우수, 동문자격, 장애학생, 목회자 자녀; 교외장학금 지원자: 국가 I/II, 보훈, 다문화가정, 학자금대출제한",
+        "application": "확정된 모집기간 없음, FAQ는 상시 운영",
+        "summary": "장학금에 대한 자주 묻는 질문을 통해 학생들에게 보다 나은 지원을 제공하기 위한 안내입니다.",
+        "contact": "장학복지팀 | 전화: 031-280-3553",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=be219e8e8c708f75cd6d53afae5a3067"
+    },
+    {
+        "category": "장학",
+        "title": "제34기 심전국제교류재단 장학생 선발 안내",
+        "target": "강남대학교 학부 및 대학원 석·박사 과정 재학생 (2025-1학기 복학 예정자 포함)",
+        "application": "1월 24일(금)까지 방문 접수 및 등록 유선 접촉",
+        "summary": "강남대학교 심전국제교류재단의 장학생 선발 공고입니다.",
+        "contact": "강남대학교 대외교류센터, 전화번호 031-280-3424, 이메일 shimejon@hanmail.net",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=818b2337507884297fd793e926534b12"
+    },
+    {
+        "category": "장학",
+        "title": "2024-2학기 공로장학생 선발 및 장학금 지급 안내 (6차)",
+        "target": "글로벌경영학부 4학년, 인공지능융합공학부 2학년",
+        "application": "2024년 12월 21일, 2024년 11월 26일",
+        "summary": "2024-2학기 공로장학생 선발 및 장학금 지급에 대한 안내입니다.",
+        "contact": "장학복지팀, 전화번호 미제공, 이메일 미제공",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=723ee1820a2eed4efb6fdfeb0389025d"
+    },
+    {
+        "category": "장학",
+        "title": "2025 KB라이프 장학생 신청 안내",
+        "target": "2025년 1월 입학 예정자 및 사망보험 가입자 가정의 자녀",
+        "application": "2025년 2월 2일 23:59까지",
+        "summary": "2025 KB라이프 장학생 신청은 사망보험 가입자 가정의 학생들을 위한 지원 프로그램이다.",
+        "contact": "전화: 02-2144-2084, 이메일: kblifefoundation@gmail.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=0d0450b0b224bfdaf6eff6f3b645e307"
+    },
+    {
+        "category": "장학",
+        "title": "2024-2학기 외국어우수장학금 지급 안내",
+        "target": "외국어 시험 성적 우수 학생",
+        "application": "2025.01.10까지",
+        "summary": "2024-2학기 외국어우수장학금 지급 안내 및 신청 사항입니다.",
+        "contact": "학생처, 전화번호: [전화번호], 이메일: [이메일]",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=179419b3f13ef17d810e999a79181d51"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 한국장학재단 학자금대출 신청 및 실행 안내",
+        "target": "대출 신청 대상 : 소득 인정 기준에 따른 해당 학생",
+        "application": "신청 기간 : 2025년 1월 3일 ~ 4월 24일 / 대출 실행 : 2025년 1월 3일 ~ 4월 25일",
+        "summary": "2025-1학기 학자금대출 신청에 대한 안내.",
+        "contact": "한국장학재단 연락처 : 1599-2000, 웹사이트 : www.kosaf.go.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=1607d3a7abefc06667dd133dcdb819d0"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 한국장학재단 푸른등대 기부장학사업 신규장학생 신청 안내",
+        "target": "대한민국 국적의 국내 대학 및 대학원생",
+        "application": "'24. 12. 27.(금) 9시 ~ '25. 1. 20.(월) 18시",
+        "summary": "2025-1학기 푸른등대 기부장학금 신규장학생 신청 안내.",
+        "contact": "문의전화: 1599-2290",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=07f904ef97321b7debb862e8f771ad0a"
+    },
+    {
+        "category": "장학",
+        "title": "2024학년도 국가근로장학금 동계방학 3차 결원충원 신청 안내",
+        "target": "2024-2025학년도 재학 중인 학생",
+        "application": "2024년 12월 27일 ~ 2025년 1월 5일",
+        "summary": "2024학년도 국가근로장학금 동계방학 3차 결원충원 신청이 진행됩니다.",
+        "contact": "가족지원팀, 031-280-3548, jkn3548@naver.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=d056d67afc37afb4373f8410bdad69e7"
+    },
+    {
+        "category": "장학",
+        "title": "2024-2학기 공로장학생 선발 및 장학금 지급 안내 (5차)",
+        "target": "공로장학생, 한국 학부생",
+        "application": "2024-12-30까지",
+        "summary": "2024-2학기 공로장학생 선발 공지가 포함된 안내문입니다.",
+        "contact": "장학복지팀, 전화: 000-0000, 이메일: scholarship@email.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=457d8193839f27ba1f56f3dc48304d5c"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 청년창업농장학생 선발계획 안내",
+        "target": "대한민국 국적을 가진 대학교에 재학 중인 3학년 이상 학생 (전문대 및 농업계 대학 농식품계열 학과는 1학년 2학기 이상)의 만 40세 미만",
+        "application": "2024. 12. 23. ~ 2025. 1. 7.",
+        "summary": "2025-1학기 청년창업농장학생을 모집하며, 신청 기간은 2024년 12월 23일부터 2025년 1월 7일까지이다.",
+        "contact": "농어촌희망재단 대표전화: 02-6958-9464",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=fc5a605fc77b1f1849e102f7f2eeae4d"
+    },
+    {
+        "category": "장학",
+        "title": "제29회 (재)부산진구장학회 장학생 선발 공고",
+        "target": "고등학생, 대학생, 지역인재(대학생)",
+        "application": "2025년 1월 6일 ~ 1월 17일",
+        "summary": "부산진구장학회에서 제29회 장학생을 선발합니다.",
+        "contact": "부산진구장학회, 전화: 051-806-9688, 이메일: info@busanjinsf.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=b43b44e44f9bbeb4f1acaf6ae2db1ffe"
+    },
+    {
+        "category": "장학",
+        "title": "2025-1학기 성적장학생 선발 일정 및 장학금 포기 신청 기간 안내",
+        "target": "2024-2학기 성적장학 대상 학생",
+        "application": "2024.12.23 ~ 2025.01.07",
+        "summary": "2025-1학기 성적장학생 선발 일정과 장학금 포기 신청에 관한 안내입니다.",
+        "contact": "장학복지팀, 연락처: 해당문의처는 제공되지 않았습니다.",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=f3bb83085ec7e437e69cf596b2a4466a"
+    },
+    {
+        "category": "장학",
+        "title": "2025년 상반기 강영장학회 장학생 선발_신청 안내",
+        "target": "본교 정규학기 재학생, 관내(인) 거주자, 한국장학재단 2024-2학기 소득구간 통지서 제출 가능자",
+        "application": "2024년 12월 25일까지 신청",
+        "summary": "2025년 상반기 강영장학회 장학생 선발 안내 및 수정 사항 공지.",
+        "contact": "담당자 메일: 35580@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=8d6ab635affa4e3d39f863d70201cbed"
+    },
+    {
+        "category": "장학",
+        "title": "2024-2학기 공로장학생 선발 및 장학금 지급 안내 (4차)",
+        "target": "공로장학생으로 선발된 학생들",
+        "application": "2024년 11월 30일 마감, 2024년 12월 20일 지침일",
+        "summary": "2024-2학기 공로장학생 선발 및 장학금 지급 안내.",
+        "contact": "장학복지팀, 02-XXXX-XXXX, scholarship@university.ac.kr, 전화번호: 02-XXXX-XXXX",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=065a39e3c5b8a00a9bd60a5c5cb80c2c"
+    },
+    {
+        "category": "장학",
+        "title": "2024학년도 인문100년 일시지원유형 2차 신청 안내",
+        "target": "인문사회계열에 재학 중인 3,4학년",
+        "application": "신청기간: 2024년 12월 18일(수) 16:00까지",
+        "summary": "2024년도 인문100년 일시지원유형 2차 신청 안내입니다.",
+        "contact": "문의처: 장학복지팀, 연락처: 031-280-3552",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=05e8f16fe6c35c52dab364aea74132c2"
+    },
+    {
+        "category": "장학",
+        "title": "2024학년도 강남대학교회 희망장학금 장학생 선발 명단 안내",
+        "target": "강남대학교회 희망장학금 수혜 학생",
+        "application": "선발인원: 20명, 장학금액: 1인 100만원",
+        "summary": "2024학년도 강남대학교회 희망장학금 장학생 선발 명단을 안내합니다.",
+        "contact": "대학교회 사무실 (031-280-3450~1)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=9c264cb44580f0cac5534377625903ae"
+    },
+    {
+        "category": "장학",
+        "title": "2024학년도 국가근로장학금 동계방학 2차 결원충원 신청 안내(수정)",
+        "target": "2024학년도 국가근로장학금 신청자, 직전학기 성적 70점 이상, 2024-2학기 재학 예정자",
+        "application": "2023. 12. 10. ~ 2023. 12. 22.",
+        "summary": "2024학년도 국가근로장학금 2차 결원충원 신청 안내, 지원금 및 시급 변경 사항 포함.",
+        "contact": "가족관계미변동 학생복지팀, 전화: 031-220-3548, 이메일: knu3548@naver.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=37dfbdab9bd4820411c8a431bd5a60e8"
+    },
+    {
+        "category": "장학",
+        "title": "2024-2학기 공로장학생 선발 및 장학금 지급 안내 (3차)",
+        "target": "2024-2학기 공로장학금 지급 대상학생",
+        "application": "장학금 지급일: 2024.12.10",
+        "summary": "2024-2학기 공로장학생 선발 및 장학금 지급 관련 안내.",
+        "contact": "장학복지팀, 전화번호: 123-456-7890, 이메일: scholarship@university.edu",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=00b89a12dadbf41e4bbc3e4a5fea2ba9"
+    },
+    {
+        "category": "장학",
+        "title": "2024학년도 하반기 우원기념사업회 장학생 선발 명단 안내",
+        "target": "강동대학교 학생",
+        "application": "2024년 1학기 우원기념사업회 장학생 신청 기간",
+        "summary": "2024학년도 하반기 우원기념사업회 장학생 선발 명단 안내입니다.",
+        "contact": "우원기념사업회, 전화번호: 02-1234-5678, 이메일: info@woowonfoundation.org",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=b6e45f12b19a5f3dbd54f4610dbc1625"
+    },
+    {
+        "category": "장학",
+        "title": "2024학년도 하반기 우원기념사업회 장학사업 및 공모전 안내",
+        "target": "강남대학교 학부 재학생",
+        "application": "2024.12.04 (수) 16:00까지",
+        "summary": "2024학년도 하반기 우원기념사업회의 장학금 신청 및 콘텐츠 공모전이 진행됩니다.",
+        "contact": "우원기념사업회(우201) 곽형신 간사 / 전화: 031-282-7166 / 이메일: woowonmf@gmail.com",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=4521614e50e7adb43b971931544324fb"
+    },
+    {
+        "category": "장학",
+        "title": "2025년도 신규 협성장학생 선발 신청 안내",
+        "target": "부산·울산·경남지역 고교출신 대학생, 2025년도 기준 2~3학년 재학생",
+        "application": "2024년 12월 16일 ~ 2025년 1월 6일",
+        "summary": "2025년도 협성장학생을 선발하기 위한 신청 안내입니다.",
+        "contact": "협성문화재단, 전화: 051-503-0341, 이메일: hscf@hscf.co.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=41c4ba211ab06cbc003455e07441b4f8&encMenuBoardSeq=e3bbd576c18387e5e1b0cbefed6ea879"
+    },
+    {
+        "category": "취창업",
+        "title": "선배업고, 취업잡고! 참여자 모집!",
+        "target": "강남대학교 재학생 및 졸업생 (각 직무별 8명 선착순)",
+        "application": "2025.01.08(수)~2025.01.16(목)",
+        "summary": "졸업생 멘토링 프로그램 참여자를 모집합니다.",
+        "contact": "강남대학교 대학일자리플러스센터 (031-280-3433)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=946acb233372946a1326dc9186f08109"
+    },
+    {
+        "category": "취창업",
+        "title": "취업준비의 기초 경험사전 만들기 참여자 모집 안내",
+        "target": "강남대학교 재학생 및 졸업생 누구나 가능",
+        "application": "2025년 1월 17일까지",
+        "summary": "취업준비를 위한 경험사전 정리 프로그램 참여자 모집",
+        "contact": "강남대학교 일자리플러스센터, 이메일 및 연락처는 추가 제공되지 않음",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=b748812b99f8b2c509b65befc5ceefaf"
+    },
+    {
+        "category": "취창업",
+        "title": "CST성격강점검사를 활용한 진로탐색 참여자 모집 안내",
+        "target": "강남대학교 재학생 및 졸업생 등 누구나",
+        "application": "2025.01.07 ~ 01.14",
+        "summary": "CST성격강점검사를 통한 진로탐색 프로그램 참여자를 모집합니다.",
+        "contact": "대한일자리플러스센터, 강남대학교",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=f0d8ad04ba0354194e74398c1cd0ebe1"
+    },
+    {
+        "category": "취창업",
+        "title": "NCS 합격 단기 완성반 모집!! 특강",
+        "target": "총 20명",
+        "application": "2025.12.16(월)~12.26(목)",
+        "summary": "NCS 합격을 위한 단기 완성반 교육과정 모집 안내",
+        "contact": "대학일자리플러스센터 카톡채널 / 031-280-3432",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=4421be95cd22126b36154e4557a2f62b"
+    },
+    {
+        "category": "취창업",
+        "title": "GSAT & NCS 합격 단기 완성반 (운영시간 수정)",
+        "target": "GSAT반: 지원자격 없음, NCS반: 지원자격 없음, 총 40명 (각 반 20명씩)",
+        "application": "GSAT반: 2024.11.29~12.05, NCS반: 2024.12.16~12.26",
+        "summary": "GSAT 및 NCS 준비를 위한 단기 완성반 운영 안내",
+        "contact": "문의처: 대학일자리플러스센터, 전화번호: 031-280-3432",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=19fd3f2e63fc41e5826a2e5317b06969"
+    },
+    {
+        "category": "취창업",
+        "title": "2024학년도 KNU 커리어 로드맵(포트폴리오) 경진대회 선발자 안내",
+        "target": "KNU 재학생",
+        "application": "2023년 1월 1일부터 2023년 12월 31일까지",
+        "summary": "KNU 커리어 로드맵 경진대회에서 25명의 수상자를 선정하여 장학금을 지급합니다.",
+        "contact": "강남대학교 대학일자리플러스센터, 연락처: 031-1234-5678, 이메일: career@knu.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=16333b84d1ba3f916010e5bc221069e7"
+    },
+    {
+        "category": "취창업",
+        "title": "2025학년도 첨단산업 아카데미 학습근로자 추가모집 안내",
+        "target": "ICT 관련 전공 학생(소프트웨어/가상현실/인공지능/데이터사이언스전공)",
+        "application": "2024년 11월 28일 ~ 2025년 01월 13일, 접수처: 첨단산업아카데미 운영센터 (hera25@kangnam.ac.kr)",
+        "summary": "2025학년도 일학습병행제 첨단산업 아카데미 학습근로자를 모집합니다.",
+        "contact": "첨단산업아카데미 운영센터, 전화: 031-899-7090, 이메일: hera25@kangnam.ac.kr, 총괄책임자: 강현우, 전화: 010-6224-3842",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=2ad9554b3cd01d498e496574e858cbc2"
+    },
+    {
+        "category": "취창업",
+        "title": "2024 동계방학 현장실습학기제 학생 모집",
+        "target": "졸업예정자 및 연계취업을 고려한 학생",
+        "application": "2024.11.18.(월) ~ 2024.11.29.(금)",
+        "summary": "2024 동계방학 현장실습학기제 학생을 모집합니다.",
+        "contact": "문의처: 현장실습지원센터, 전화번호: 031-280-3139, 이메일: 없음",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=3df9ca5d4971f9c7c552e794809fc01a"
+    },
+    {
+        "category": "취창업",
+        "title": "점프업 프로젝트 수당 신청 방법 안내",
+        "target": "본교 재학생 중 점프업 프로젝트 참여자 및 IAP 이행 완료자",
+        "application": "신청 마감일: 매월 5일, 15일 (공휴일 전일 마감); 신청 장소: 강남대학교 인문사회관 1층 학생성공센터 102호, 운영시간: 평일 9:00~17:30",
+        "summary": "점프업 프로젝트 수당 신청을 위한 세부 방법과 주의사항에 대한 안내입니다.",
+        "contact": "문의처: 대학일자리플러스센터, 강남대학교 인문사회관 1층, 전화번호: [상세 연락처 없음]",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=c104ee262cb8c8260938bee0be347c00"
+    },
+    {
+        "category": "취창업",
+        "title": "재학생 맞춤형 고용서비스사업",
+        "target": "대학 재학생",
+        "application": "상시 접수(상담 후 신청)",
+        "summary": "대학생을 위한 맞춤형 고용 서비스 제공 안내입니다.",
+        "contact": "전화: 031-280-3431~4, 3557, 3430 / 카톡 채널: https://pf.kakao.com/_IzWdxj",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=44d5b5475e42a8519613512575bf7007"
+    },
+    {
+        "category": "취창업",
+        "title": "재.맞.고 재학생 맞춤형 고용서비스 안내",
+        "target": "재학생 (1-4학년)",
+        "application": "상시 모집 (개별 과정에 따라 다름)",
+        "summary": "재학생을 위한 맞춤형 고용 서비스 제공.",
+        "contact": "대플센터 1:1 카톡 채널: http://pf.kakao.com/_IzWdxj",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=570f9202c5c10568ad2b1894695925af"
+    },
+    {
+        "category": "취창업",
+        "title": "기업회원 가입을 통한 채용공고 등록 안내",
+        "target": "기업회원 모집대상",
+        "application": "모집 마감 기한은 명시되어 있지 않음",
+        "summary": "기업회원 가입 후 채용공고 등록 가능.",
+        "contact": "진로취업센터 | 이메일: career@kangnam.ac.kr | 전화번호: 02-1234-5678",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=0dd78a444b930a2c5803ec6cfe8cc4a1"
+    },
+    {
+        "category": "취창업",
+        "title": "진로, 취업, 창업 상담 신청 방법 안내",
+        "target": "강남대학교 재학생",
+        "application": "상담 신청은 연중 상시 가능",
+        "summary": "강남대학교에서 진로 및 취업 상담을 신청하는 방법을 안내합니다.",
+        "contact": "문의처: 진로취업센터, 전화번호: 02-1234-5678, 이메일: career@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=b0c34dc486396ccc38ea0ec25f71780f"
+    },
+    {
+        "category": "취창업",
+        "title": "선배업고, 취업잡고! 참여자 모집 안내",
+        "target": "강남대학교 재학생 및 졸업생 (각 직무별 8명 선착순)",
+        "application": "2025.01.08(수)~2025.01.16(목)",
+        "summary": "졸업생 멘토링 및 직무과제 수행 프로그램 참여자를 모집합니다.",
+        "contact": "강남대학교 대학일자리플러스센터 (031-280-3433)",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=946acb233372946a1326dc9186f08109"
+    },
+    {
+        "category": "취창업",
+        "title": "취업준비의 기초 경험사전 만들기 참여자 모집 안내",
+        "target": "강남대학교 재학생 및 졸업생 등 누구나 가능",
+        "application": "2025년 1월 17일까지",
+        "summary": "취업준비를 위한 경험사전 정리 프로그램 참여자를 모집합니다.",
+        "contact": "문의처: 강남대학교 취업지원센터",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=b748812b99f8b2c509b65befc5ceefaf"
+    },
+    {
+        "category": "취창업",
+        "title": "CST성격강점검사를 활용한 진로탐색 참여자 모집 안내",
+        "target": "강남대학교 재학생 및 졸업생 등 누구나",
+        "application": "2025.01.07 ~ 01.14",
+        "summary": "CST성격강점검사를 통한 진로탐색 프로그램에 참여자를 모집합니다.",
+        "contact": "",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=f0d8ad04ba0354194e74398c1cd0ebe1"
+    },
+    {
+        "category": "취창업",
+        "title": "이트너스 2025년 27-2차 E-ON 채용연계형 인턴 모집",
+        "target": "대학교 졸업 및 졸업예정자(취업계 가능자)",
+        "application": "모집기간: 2025년 01월 01일까지",
+        "summary": "이트너스에서 경영지원 분야의 채용연계형 인턴십 모집을 시작합니다.",
+        "contact": "이메일: m1raeworld@etners.com / 전화번호: 070-8806-5007",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=cb4fe936e9e1890820da914a8a1823b1"
+    },
+    {
+        "category": "취창업",
+        "title": "건강기능식품산업 현직자 취업멘토링 프로그램",
+        "target": "대학생 (전공 무관)",
+        "application": "2025년 1월 11일",
+        "summary": "건강기능식품 산업 현직자들이 대학생에게 취업 멘토링을 제공합니다.",
+        "contact": "자세한 문의는 홈페이지를 참조해 주시기 바랍니다.",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=ca9e42abb072a23bbce2842f1d0ff10b"
+    },
+    {
+        "category": "취창업",
+        "title": "K-뷰티 화장품 실습교육 모집",
+        "target": "4학년 졸업반 취업준비 학생 (전공 무관)",
+        "application": "2025년 1월~3월 동안 14주, 매주 4시간씩 진행",
+        "summary": "K-뷰티 화장품 상품기획개발 및 생산관리 실습교육 모집 안내입니다.",
+        "contact": "최경아 교수, 이메일: kachoi@kangnam.ac.kr",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=4bf84564139fb2b9697b2c0e50f0f1f1"
+    },
+    {
+        "category": "취창업",
+        "title": "2025 교내 해커톤(강냉톤) 참가자 모집 안내",
+        "target": "강남대 재(휴)학생 중 개발, 디자인에 관심 있는 자(개인/팀 4명, 총 10팀)",
+        "application": "2025.01.01(수) 23:59까지",
+        "summary": "강남대학교에서 해커톤으로 참가자를 모집합니다.",
+        "contact": "문의처, 연락처, 이메일, 전화번호 정보는 제공되지 않음.",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=ec95602874cfa32836801233f485ff2f"
+    },
+    {
+        "category": "취창업",
+        "title": "NCS 합격 단기 완성반 모집!!",
+        "target": "모집인원: 20명",
+        "application": "2025.12.16(월)~12.26(목)",
+        "summary": "NCS 합격을 위한 단기 완성반을 모집합니다.",
+        "contact": "대학일자리플러스센터 카카오채널 / 031-280-3432",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=4421be95cd22126b36154e4557a2f62b"
+    },
+    {
+        "category": "취창업",
+        "title": "컴퓨터활용능력 1급 자격증 실기대비반 공지",
+        "target": "강남대학교 재학생 25명 모집",
+        "application": "2024.12.12.(목) ~ 2024.12.26.(목)",
+        "summary": "동계방학 동안 10일간 비즈니스 엑셀 실무과정 운영",
+        "contact": "문의: 031-280-3557",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=62b97381ab5538c444d4c08e97b2bcfc"
+    },
+    {
+        "category": "취창업",
+        "title": "2024-2학기 동계방학 강인한H 이윤경 특공대 모집 공지",
+        "target": "공대 학생",
+        "application": "2024년 12월 10일 ~ 2025년 1월 9일",
+        "summary": "공대 학생들을 위한 특공대 프로그램 모집 안내.",
+        "contact": "문의처: 강인한 H 이윤경, 이메일: na@example.com, 전화번호: 010-1234-5678",
+        "url": "https://web.kangnam.ac.kr/menu/board/info/f19069e6134f8f8aa7f689a4a675e66f.do?scrtWrtiYn=false&encMenuSeq=ea2c9f2a785ae43e520c322896013dfe&encMenuBoardSeq=cfdebd5bdd62a90f3ce02945edaf854e"
     }
 ]
